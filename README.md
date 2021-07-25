@@ -7,3 +7,8 @@ This is a program that tests your typing skills with how fast and how accurately
   
 **Craig's Typing Module** was created in order to help people improve the accuracy and speed at which they can type.
 You will only need python to run this test. Written completely in python. 
+
+    
+I got inspiration from a similar project at this URL: https://github.com/ksu-is/Typing-Speed-Test.git
+    
+Credit goes to its original creators. Go check it out!
