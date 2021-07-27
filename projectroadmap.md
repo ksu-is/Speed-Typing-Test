@@ -4,9 +4,15 @@
 
 
 # Sprint 1
-
+***
 - [X] Create a Github account and accept the invite to connect to our class group (KSU-IS) in Github.
 - [X] Create a Github repository in our KSU-IS group for your specific project.
 - [X] Make the necessary changes in the readme.md file for your specific repository. 
 - [X] Student should have discovered and copied a repository into their project repository related to their project. 
 - [X] In evaluating your code from the copied repository, you should have read the code and attempted to run it.
+
+# Sprint 2 
+***
+- [X] Continue adding code and cleaning it up.
+- 
+- [ ] Add to roadmap if needed.
