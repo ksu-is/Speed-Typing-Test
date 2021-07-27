@@ -20,6 +20,5 @@
 
 # Sprint 3
 ***
-- [X] Tweak any final changes to code and project
-- [ ] Create powerpoint slides that explain project
-- [ ] Copy Github Repository for D2L
+- [X] Tweak any final changes to code and project.
+- [ ] Create powerpoint slides that explain project.
