@@ -1,7 +1,7 @@
 # Speed-Typing-Test
 This is a program that tests your typing skills with how fast and how accurately you can type. 
 
-<h1 align="center"> Craig's Typing Module </h1>
+<h1 align="center"> Ready, Set, Type! </h1>
 <p align="center">
     Typing Speed Test in Terminal 
   
