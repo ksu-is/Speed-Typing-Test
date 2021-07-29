@@ -5,7 +5,7 @@ This is a program that tests your typing skills with how fast and how accurately
 <p align="center">
     Typing Speed Test in Terminal 
   
-**Craig's Typing Module** was created in order to help people improve the accuracy and speed at which they can type.
+**Craig's "Ready, Set, Type!" Typing Module** was created in order to help people improve the accuracy and speed at which they can type.
 You will only need python to run this test. Written completely in python. 
 
     
