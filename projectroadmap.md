@@ -14,11 +14,12 @@
 # Sprint 2 
 ***
 - [X] Continue adding code and cleaning up code repository.
-- [ ] Add code that will import time and math.
-- [ ] Add code that will change the phrase needed to type every time.
+- [X] Add code that will import time and math.
+- [X] Add code that will change the phrase needed to type every time.
 - [X] Add to roadmap if needed.
 
 # Sprint 3
 ***
 - [X] Tweak any final changes to code and project.
-- [ ] Create powerpoint slides that explain project.
+- [X] Create powerpoint slides that explain project.
+- [ ] Hold Meeting and Record
